@@ -1,11 +1,9 @@
 # PBO LKS — Portofolio Praktikum
-
-- Nama : Neisya Fadilla
-- NIM : 1101251007
-- Kelas : (isi kelas kamu)
+- Nama: Neisya Fadilla Nurkhairunnisa
+- NIM: H1101251007
+- Kelas: Pemrograman Berorientasi Objek - B
 
 # Daftar Pertemuan
-
 - [ ] Pertemuan 1 — Setup & Database
 - [ ] Pertemuan 2 — Core OOP
 - [ ] Pertemuan 3 — Framework & Routing
